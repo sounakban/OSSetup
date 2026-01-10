@@ -68,3 +68,7 @@ Academic:
 	
 Social:
 	*) Slack [AppSt]
+	
+	
+AI:
+	*) Newell - Your Ultimate Virtual Assistant Interface [FSA]
